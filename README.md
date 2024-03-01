@@ -1,19 +1,10 @@
 ### Hi there 👋
 
-<!--
-**learnwithvikasjha/learnwithvikasjha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Vikas Kumar Jha. You might already know me from my [YouTube channel](https://www.youtube.com/vikasjha001) or one of my Udemy Courses, here is my [Udmey Profile](https://www.udemy.com/user/vikas-kumar-jha-5/).
 
-Here are some ideas to get you started:
+Experience: I have 13+ Years of experience working with a leading IT company known as Wipro Technologies. I left my job on the 13th of October 2023 to continue to teach students full-time. Now, I spend most of my time creating courses on Udemy or YouTube. I also write technical articles which are published on my website [itpanther.com](https://itpanther.com/blogs).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can enroll for any of my courses at a special discounted price. I update this regularly.
 
 | Udemy Courses | Course Duration | URL | Discount Coupon |
 |----------|----------|----------|----------|
@@ -24,6 +15,4 @@ Redis Beginners to Advance With Free Lab | 7+ Hours | https://www.udemy.com/cour
 Apache NiFi Developer Course | 8+ Hours | https://www.udemy.com/course/apache-nifi-latest-course/?referralCode=5FE05B348E7961A184BC | MARCH2024
 Apache NiFi Administrator Course | 3+ Hours | https://www.udemy.com/course/apachenifi/?referralCode=AC76D25E444A790BC60D | MARCH2024
 Liferay For Beginners Course | 3+ Hours | https://www.udemy.com/course/liferay-crash-course/?referralCode=B28C6501E4A58227FB64 | MARCH2024
-
-
 
