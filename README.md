@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+| Header 1 | Header 2 | Header 3 |
+|----------|----------|----------|
+a|b|c
