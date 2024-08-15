@@ -27,3 +27,4 @@ Liferay For Beginners Course | 3+ Hours | https://www.udemy.com/course/liferay-c
 You can contact me via email:
 
 - **Email**: [learnwithvikasjha@gmail.com](mailto:learnwithvikasjha@gmail.com)
+- **Meeting**: [Book 30 Minutes One to One meeting](https://calendly.com/learnwithvikasjha/30min)
