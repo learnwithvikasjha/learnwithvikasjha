@@ -24,7 +24,6 @@ Liferay For Beginners Course | 3+ Hours | https://www.udemy.com/course/liferay-c
 
 # Contact Me
 
-You can contact me via email or mobile phone:
+You can contact me via email:
 
 - **Email**: [learnwithvikasjha@gmail.com](mailto:learnwithvikasjha@gmail.com)
-- **Mobile**: [+91 7042103414](tel:+917042103414)
