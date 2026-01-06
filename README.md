@@ -4,7 +4,7 @@ I am **Vikas Kumar Jha**. You might already know me from my [YouTube channel](ht
 
 ### Experience
 
-I have 13+ Years of experience working with a leading IT company known as Wipro Technologies. I left my job on the 13th of October 2023 to continue to teach students full-time. Now, I spend most of my time creating courses on Udemy or YouTube. I also write technical articles which are published on my website [techbloomer.com](https://byvikas.com).
+I have 13+ Years of experience working with a leading IT company known as Wipro Technologies. I left my job on the 13th of October 2023 to continue to teach students full-time. Now, I spend most of my time creating courses on Udemy or YouTube. I also write technical articles which are published on my website [byvikas.com](https://byvikas.com).
 Here is my [LinkedIn Profile](https://www.linkedin.com/in/vikasjha001/).
 
 
